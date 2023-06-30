@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/icebearsticker.png" width="100"/>
+</div>
+
 ### Hi there! I'm Shawn, a Y2 sophomore currently studying Computer Science at the National University of Singapore! 
 
 ### I'm interested in anything related to software engineering, product management and artificial intelligence 🤖
