@@ -12,7 +12,7 @@
 - [A simple personal website made with HTML and CSS](https://shawnnygoh.github.io/)
 
 ### Here are the projects I'm currently working on:
-- An API Gateway made with the Hertz and Kitex frameworks under CloudWeGo developed by ByteDance
+- An [API Gateway](https://github.com/shawnnygoh/cloudwego-api-gateway) made with the Hertz and Kitex frameworks under CloudWeGo developed by ByteDance
 
 <div align ="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
