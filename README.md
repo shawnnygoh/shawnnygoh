@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/icebearsticker.png" width="100"/>
+  <img src="images/icebearsticker.png" width="150"/>
 </div>
 
 ### Hi there! I'm Shawn, a Y2 sophomore currently studying Computer Science at the National University of Singapore! 
@@ -16,6 +16,6 @@
 
 <div align ="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnnygoh&layout=compact&theme=dracula" height="190">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnnygoh&layout=compact&theme=dracula" height="125">
     </a>
 </div>
