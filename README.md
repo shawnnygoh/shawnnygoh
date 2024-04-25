@@ -18,5 +18,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnnygoh&hide=html,css&layout=compact&theme=dracula" height="125">
     </a>
-    [![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnnygoh&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=shawnnygoh&show_icons=true&theme=solarized-light" height="125">
+    </a>
 </div>
