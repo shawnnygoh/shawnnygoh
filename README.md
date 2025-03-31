@@ -14,7 +14,7 @@
 ### Here are the projects I'm currently working on:
 - An [API Gateway](https://github.com/shawnnygoh/cloudwego-api-gateway) made with the Hertz and Kitex frameworks under CloudWeGo developed by ByteDance -->
 
-### Here's the link to my personal website made with React, Vite and Tailwind CSS
+### Here's the link to my personal website made with React, Next.js and Tailwind CSS
 - [shawnnygoh.github.io](https://shawnnygoh.github.io/)
 
 <div align ="center">
